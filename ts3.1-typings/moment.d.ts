@@ -90,6 +90,7 @@ declare namespace moment {
     d?: RelativeTimeSpecVal;
     dd?: RelativeTimeSpecVal;
     w?: RelativeTimeSpecVal;
+    ww?: RelativeTimeSpecVal;
     M?: RelativeTimeSpecVal;
     MM?: RelativeTimeSpecVal;
     y?: RelativeTimeSpecVal;
